@@ -1,4 +1,4 @@
-# Awesome Azure [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Azure [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021720611.svg)](https://doi.org/10.5281/zenodo.19673182)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -79,10 +79,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)**
-- **[Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)**
-- **[Awesome Microsoft](https://github.com/awesomelistsio/awesome-microsoft)**
-- **[Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)**
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)**
+- **[Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)**
+- **[Awesome Microsoft](https://github.com/brandonhimpfen/awesome-microsoft)**
+- **[Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)**
   
 ## Contribute
 
